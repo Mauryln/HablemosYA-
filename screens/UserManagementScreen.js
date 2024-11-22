@@ -82,7 +82,7 @@ const UserManagementScreen = ({ route }) => {
         // Verificar si el archivo ya existe
         const checkFileResponse = await fetch(githubApiUrl, {
           headers: {
-            Authorization: 'Bearer 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',
+            Authorization: 'Aspsada',
           },
         });
   
