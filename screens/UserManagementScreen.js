@@ -95,7 +95,7 @@ const UserManagementScreen = ({ route }) => {
         const uploadResponse = await fetch(githubApiUrl, {
           method: 'PUT',
           headers: {
-            Authorization: 'Bearer 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',
+            Authorization: 'API KEY XDD',
             'Content-Type': 'application/json',
           },
           body: JSON.stringify({
